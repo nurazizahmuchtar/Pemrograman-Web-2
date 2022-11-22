@@ -15,7 +15,7 @@
         <div class="row mt-3 col-md-6 offset-3">
         <div class="text-center">
           <h1>OPERATOR ARITMATIKA</h1>
-          <p>20202205041- Nur Azizah Muchtar</p>
+          <p>20202205041 - Nur Azizah Muchtar</p>
 
           <?php
               $hari = date ("l");
