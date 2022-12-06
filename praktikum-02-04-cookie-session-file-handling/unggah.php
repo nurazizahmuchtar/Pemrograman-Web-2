@@ -59,7 +59,7 @@ $cmdUnggah = isset($_POST["cmdUnggah"]) ? $_POST["cmdUnggah"] : "";
                             copy($fileSementara, $namaFile);
                             echo "<img src='" . $namaFile . "' />";
                         } else {
-                            echo "<div class='alert alert-dangertext-center'>File harus berupa gambar bertipe JPG atau PNG</div>";
+                            echo "<div class='alert alert-dangertext-center'>File harus berupa gambar bertipe JPG, JPEG, atau PNG</div>";
                         }
                     }
                 }
